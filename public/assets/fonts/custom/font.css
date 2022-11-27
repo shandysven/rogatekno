@@ -1,0 +1,64 @@
+/* Sailec */
+@font-face {
+    font-family: "Sailec";
+    font-style: normal;
+    font-weight: 900;
+    src: url("Sailec-Black.woff") format("woff");
+}
+@font-face {
+    font-family: "Sailec";
+    font-style: normal;
+    font-weight: 700;
+    src: url("Sailec-Bold.woff") format("woff");
+}
+@font-face {
+    font-family: "Sailec";
+    font-style: normal;
+    font-weight: 500;
+    src: url("Sailec-Medium.woff") format("woff");
+}
+@font-face {
+    font-family: "Sailec";
+    font-style: normal;
+    font-weight: 400;
+    src: url("Sailec-Regular.woff") format("woff");
+}
+
+/* DM Mono */
+@font-face {
+    font-family: "DM Mono";
+    font-style: normal;
+    font-weight: 500;
+    src: url("DMMono-Medium.woff") format("woff"),
+         url("DMMono-Medium.woff2") format("woff2");
+}
+@font-face {
+    font-family: "DM Mono";
+    font-style: normal;
+    font-weight: 400;
+    src: url("DMMono-Regular.woff") format("woff"),
+         url("DMMono-Regular.woff2") format("woff2");
+}
+
+/* Space Grotesk */
+@font-face {
+    font-family: "Space Grotesk";
+    font-style: normal;
+    font-weight: 400;
+    src: url("SpaceGrotesk-Regular.woff") format("woff"),
+         url("SpaceGrotesk-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Space Grotesk";
+    font-style: normal;
+    font-weight: 500;
+    src: url("SpaceGrotesk-Medium.woff") format("woff"),
+         url("SpaceGrotesk-Medium.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Space Grotesk";
+    font-style: normal;
+    font-weight: 600;
+    src: url("SpaceGrotesk-SemiBold.woff") format("woff"),
+         url("SpaceGrotesk-SemiBold.woff2") format("woff2");
+}
